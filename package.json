@@ -1,0 +1,21 @@
+{
+  "name": "ryanabx-dark",
+  "displayName": "ryanabx-dark",
+  "description": "Dark theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ryanabx Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ryanabx Dark-color-theme.json"
+      }
+    ]
+  }
+}
